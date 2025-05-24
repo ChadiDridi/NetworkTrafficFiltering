@@ -7,10 +7,11 @@ from scapy.all import sniff, IP, TCP, UDP, ARP
 MODEL_PATH    = "model_4_pipeline_ordinal.pkl"
 FEATURE_ORDER = ['proto','service','duration','orig_bytes','resp_bytes','conn_state']
 THRESHOLD     = 0.65
+LOG_FILE      = "logs.txt"  # Add log file path
 
 # Load the trained pipeline
 pipe = joblib.load(MODEL_PATH)
-print("✅ Pipeline loaded.")
+print("Pipeline loaded.")
 
 # Grab the encoder’s learned string categories
 ord_enc = pipe.named_steps['preprocessor'].named_transformers_['ord']
@@ -76,12 +77,21 @@ def handle_packet(pkt):
         feats = packet_to_features(pkt)
         p, mal = predict(feats)
         ts = time.strftime("%H:%M:%S")
-        print(f"[{ts}] {pkt.summary()}")
-        print("   Features:", feats)
-        print(f"   Score: {p:.3f} → {'MALICIOUS' if mal else 'benign'}")
-        print("-"*50)
+        status = "MALICIOUS" if mal else "benign"
+
+        log_entry = (
+            f"[{ts}] {pkt.summary()}\n"
+            f"   Features: {feats}\n"
+            f"   Score: {p:.3f} → {status}\n"
+            + "-" * 40 + "\n"
+        )
+
+        print(log_entry.strip())  # Console output
+
+        with open(LOG_FILE, "a") as f:  # Save to log file
+            f.write(log_entry)
 
 if __name__ == "__main__":
-    iface = sys.argv[1] if len(sys.argv)>1 else "lo"
-    print(f"🚀 Sniffing on {iface}")
+    iface = sys.argv[1] if len(sys.argv) > 1 else "lo"
+    print(f"Sniffing on {iface}")
     sniff(iface=iface, prn=handle_packet, store=False)
