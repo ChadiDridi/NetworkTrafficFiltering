@@ -1,0 +1,224 @@
+[16:12:28] Ether / IP / TCP 127.0.0.1:54254 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 314.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.077 → benign
+----------------------------------------
+[16:12:28] Ether / IP / TCP 127.0.0.1:54254 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 314.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.077 → benign
+----------------------------------------
+[16:12:28] Ether / IP / TCP 127.0.0.1:52966 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 392.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.077 → benign
+----------------------------------------
+[16:12:28] Ether / IP / TCP 127.0.0.1:52966 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 392.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.077 → benign
+----------------------------------------
+[16:12:28] Ether / IP / TCP 127.0.0.1:52998 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 187.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.077 → benign
+----------------------------------------
+[16:12:28] Ether / IP / TCP 127.0.0.1:52998 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 187.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.077 → benign
+----------------------------------------
+[16:12:28] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:52998 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 220.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.077 → benign
+----------------------------------------
+[16:12:28] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:52998 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 220.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.077 → benign
+----------------------------------------
+[16:12:28] Ether / IP / TCP 127.0.0.1:52998 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.992 → MALICIOUS
+----------------------------------------
+[16:12:28] Ether / IP / TCP 127.0.0.1:52998 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.992 → MALICIOUS
+----------------------------------------
+[16:12:28] Ether / IP / TCP 127.0.0.1:54284 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 302.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.077 → benign
+----------------------------------------
+[16:12:29] Ether / IP / TCP 127.0.0.1:54284 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 302.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.077 → benign
+----------------------------------------
+[16:12:29] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:52966 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 220.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.077 → benign
+----------------------------------------
+[16:12:29] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:52966 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 220.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.077 → benign
+----------------------------------------
+[16:12:29] Ether / IP / TCP 127.0.0.1:52966 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.992 → MALICIOUS
+----------------------------------------
+[16:12:29] Ether / IP / TCP 127.0.0.1:52966 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.992 → MALICIOUS
+----------------------------------------
+[16:12:29] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:54254 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 220.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.077 → benign
+----------------------------------------
+[16:12:29] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:54254 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 220.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.077 → benign
+----------------------------------------
+[16:12:29] Ether / IP / TCP 127.0.0.1:54254 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.992 → MALICIOUS
+----------------------------------------
+[16:12:29] Ether / IP / TCP 127.0.0.1:54254 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.992 → MALICIOUS
+----------------------------------------
+[16:12:29] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:54284 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 216.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.077 → benign
+----------------------------------------
+[16:12:29] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:54284 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 216.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.077 → benign
+----------------------------------------
+[16:12:29] Ether / IP / TCP 127.0.0.1:54284 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.992 → MALICIOUS
+----------------------------------------
+[16:12:29] Ether / IP / TCP 127.0.0.1:54284 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.992 → MALICIOUS
+----------------------------------------
+[16:12:29] Ether / IP / TCP 127.0.0.1:54268 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 376.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.077 → benign
+----------------------------------------
+[16:12:29] Ether / IP / TCP 127.0.0.1:54268 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 376.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.077 → benign
+----------------------------------------
+[16:12:29] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:54268 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 216.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.077 → benign
+----------------------------------------
+[16:12:29] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:54268 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 216.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.077 → benign
+----------------------------------------
+[16:12:29] Ether / IP / TCP 127.0.0.1:54268 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.992 → MALICIOUS
+----------------------------------------
+[16:12:29] Ether / IP / TCP 127.0.0.1:54268 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.992 → MALICIOUS
+----------------------------------------
+[16:12:29] Ether / IP / TCP 127.0.0.1:52982 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 183.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.077 → benign
+----------------------------------------
+[16:12:29] Ether / IP / TCP 127.0.0.1:52982 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 183.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.077 → benign
+----------------------------------------
+[16:12:29] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:52982 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 216.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.077 → benign
+----------------------------------------
+[16:12:29] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:52982 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 216.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.077 → benign
+----------------------------------------
+[16:12:29] Ether / IP / TCP 127.0.0.1:52982 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.992 → MALICIOUS
+----------------------------------------
+[16:12:29] Ether / IP / TCP 127.0.0.1:52982 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.992 → MALICIOUS
+----------------------------------------
+[16:15:53] Ether / IP / TCP 127.0.0.1:51648 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 105.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.629 → benign
+----------------------------------------
+[16:15:53] Ether / IP / TCP 127.0.0.1:51648 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 105.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.629 → benign
+----------------------------------------
+[16:15:53] Ether / IP / TCP 127.0.0.1:51648 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 296.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.077 → benign
+----------------------------------------
+[16:15:53] Ether / IP / TCP 127.0.0.1:51648 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 296.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.077 → benign
+----------------------------------------
+[16:15:53] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:51648 A
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.992 → MALICIOUS
+----------------------------------------
+[16:15:53] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:51648 A
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.992 → MALICIOUS
+----------------------------------------
+[16:15:53] Ether / IP / TCP 127.0.0.1:53004 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 105.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.629 → benign
+----------------------------------------
+[16:15:53] Ether / IP / TCP 127.0.0.1:53004 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 105.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.629 → benign
+----------------------------------------
+[16:15:53] Ether / IP / TCP 127.0.0.1:53004 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 296.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.077 → benign
+----------------------------------------
+[16:15:53] Ether / IP / TCP 127.0.0.1:53004 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 296.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.077 → benign
+----------------------------------------
+[16:15:53] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:51648 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 260.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.077 → benign
+----------------------------------------
+[16:15:53] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:51648 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 260.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.077 → benign
+----------------------------------------
+[16:15:53] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:53004 A
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.992 → MALICIOUS
+----------------------------------------
+[16:15:53] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:53004 A
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.992 → MALICIOUS
+----------------------------------------
+[16:15:53] Ether / IP / TCP 127.0.0.1:51648 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.992 → MALICIOUS
+----------------------------------------
+[16:15:53] Ether / IP / TCP 127.0.0.1:51648 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.992 → MALICIOUS
+----------------------------------------
+[16:15:53] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:53004 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 260.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.077 → benign
+----------------------------------------
+[16:15:53] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:53004 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 260.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.077 → benign
+----------------------------------------
+[16:15:53] Ether / IP / TCP 127.0.0.1:53004 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.992 → MALICIOUS
+----------------------------------------
+[16:15:53] Ether / IP / TCP 127.0.0.1:53004 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'dhcp', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'SF'}
+   Score: 0.992 → MALICIOUS
+----------------------------------------
