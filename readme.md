@@ -90,7 +90,9 @@ These datasets were chosen to train diverse models across different types of tra
 
 Fast-track demo (logs, Staging test on LAN attack via Kali linux, Dev Environment threats testing using attack.py):  
 https://drive.google.com/drive/folders/1-rVJEEDVjGkgEXDbcasrKZ0K-uiZKJlg?usp=drive_link
+## Architectural details
 
+for more information about the project's architecture and the pipelining, please have a look at the report in the git repo
 ---
 
 ## Built With
