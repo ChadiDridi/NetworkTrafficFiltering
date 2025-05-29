@@ -14094,3 +14094,1251 @@
    Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
    Score: 0.000 → benign
 ----------------------------------------
+[22:31:27] Ether / IP / UDP / DNS Qry b'firebaselogging-pa.googleapis.com.'
+   Features: {'proto': 'udp', 'service': 'dns', 'duration': 0.0, 'orig_bytes': 104.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 104.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:27] Ether / IP / UDP / DNS Qry b'firebaselogging-pa.googleapis.com.'
+   Features: {'proto': 'udp', 'service': 'dns', 'duration': 0.0, 'orig_bytes': 104.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 104.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:27] Ether / IP / UDP / DNS Qry b'firebaselogging-pa.googleapis.com.'
+   Features: {'proto': 'udp', 'service': 'dns', 'duration': 0.0, 'orig_bytes': 104.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 104.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:27] Ether / IP / UDP / DNS Qry b'firebaselogging-pa.googleapis.com.'
+   Features: {'proto': 'udp', 'service': 'dns', 'duration': 0.0, 'orig_bytes': 104.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 104.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:27] Ether / IP / UDP / DNS Ans 216.58.211.202
+   Features: {'proto': 'udp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 360.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 360.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:27] Ether / IP / UDP / DNS Ans 216.58.211.202
+   Features: {'proto': 'udp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 360.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 360.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:27] Ether / IP / UDP / DNS Ans 2a00:1450:4006:811::200a
+   Features: {'proto': 'udp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 216.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 216.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:27] Ether / IP / UDP / DNS Ans 2a00:1450:4006:811::200a
+   Features: {'proto': 'udp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 216.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 216.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:28] Ether / IP / TCP 127.0.0.1:47024 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 121.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 121.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:28] Ether / IP / TCP 127.0.0.1:47024 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 121.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 121.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:28] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47024 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 260.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 260.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:28] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47024 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 260.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 260.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:28] Ether / IP / TCP 127.0.0.1:47024 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:28] Ether / IP / TCP 127.0.0.1:47024 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:29] Ether / IP / UDP / DNS Qry b'undefined.'
+   Features: {'proto': 'udp', 'service': 'dns', 'duration': 0.0, 'orig_bytes': 80.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 80.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:29] Ether / IP / UDP / DNS Qry b'undefined.'
+   Features: {'proto': 'udp', 'service': 'dns', 'duration': 0.0, 'orig_bytes': 80.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 80.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:29] Ether / IP / UDP / DNS Ans server-failure
+   Features: {'proto': 'udp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 80.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 80.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:29] Ether / IP / UDP / DNS Ans server-failure
+   Features: {'proto': 'udp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 80.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 80.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:29] Ether / IP / TCP 127.0.0.1:47304 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 314.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 314.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:29] Ether / IP / TCP 127.0.0.1:47304 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 314.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 314.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:29] Ether / IP / TCP 127.0.0.1:44984 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 392.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 392.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:29] Ether / IP / TCP 127.0.0.1:44984 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 392.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 392.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:29] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47304 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 220.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 220.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:29] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47304 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 220.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 220.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:29] Ether / IP / TCP 127.0.0.1:47304 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:29] Ether / IP / TCP 127.0.0.1:47304 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:29] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:44984 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 220.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 220.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:29] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:44984 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 220.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 220.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:29] Ether / IP / TCP 127.0.0.1:44984 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:29] Ether / IP / TCP 127.0.0.1:44984 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:29] Ether / IP / TCP 127.0.0.1:47028 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 187.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 187.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:29] Ether / IP / TCP 127.0.0.1:47028 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 187.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 187.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:29] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47028 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 220.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 220.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:29] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47028 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 220.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 220.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:29] Ether / IP / TCP 127.0.0.1:47028 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:29] Ether / IP / TCP 127.0.0.1:47028 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:29] Ether / IP / TCP 127.0.0.1:59434 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 302.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 302.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:29] Ether / IP / TCP 127.0.0.1:59434 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 302.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 302.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:29] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:59434 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 216.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 216.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:29] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:59434 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 216.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 216.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:29] Ether / IP / TCP 127.0.0.1:59434 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:29] Ether / IP / TCP 127.0.0.1:59434 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:29] Ether / IP / TCP 127.0.0.1:47040 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 376.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 376.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:29] Ether / IP / TCP 127.0.0.1:47040 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 376.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 376.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:29] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47040 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 216.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 216.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:29] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47040 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 216.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 216.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:29] Ether / IP / TCP 127.0.0.1:47040 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:29] Ether / IP / TCP 127.0.0.1:47040 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:29] Ether / IP / TCP 127.0.0.1:55498 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 183.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 183.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:29] Ether / IP / TCP 127.0.0.1:55498 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 183.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 183.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:29] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:55498 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 216.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 216.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:30] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:55498 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 216.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 216.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:30] Ether / IP / TCP 127.0.0.1:55498 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:30] Ether / IP / TCP 127.0.0.1:55498 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:30] Ether / IP / UDP / DNS Qry b'mobile.events.data.microsoft.com.'
+   Features: {'proto': 'udp', 'service': 'dns', 'duration': 0.0, 'orig_bytes': 92.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 92.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:30] Ether / IP / UDP / DNS Qry b'mobile.events.data.microsoft.com.'
+   Features: {'proto': 'udp', 'service': 'dns', 'duration': 0.0, 'orig_bytes': 92.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 92.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:30] Ether / IP / UDP / DNS Qry b'mobile.events.data.microsoft.com.'
+   Features: {'proto': 'udp', 'service': 'dns', 'duration': 0.0, 'orig_bytes': 92.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 92.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:30] Ether / IP / UDP / DNS Qry b'mobile.events.data.microsoft.com.'
+   Features: {'proto': 'udp', 'service': 'dns', 'duration': 0.0, 'orig_bytes': 92.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 92.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:30] Ether / IP / UDP / DNS Ans b'mobile.events.data.trafficmanager.net.'
+   Features: {'proto': 'udp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 212.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 212.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:30] Ether / IP / UDP / DNS Ans b'mobile.events.data.trafficmanager.net.'
+   Features: {'proto': 'udp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 212.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 212.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:30] Ether / IP / UDP / DNS Ans b'mobile.events.data.trafficmanager.net.'
+   Features: {'proto': 'udp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 256.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 256.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:30] Ether / IP / UDP / DNS Ans b'mobile.events.data.trafficmanager.net.'
+   Features: {'proto': 'udp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 256.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 256.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:30] Ether / IP / ICMP / IPerror / UDPerror / DNS Ans b'mobile.events.data.trafficmanager.net.'
+   Features: {'proto': 'other', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 284.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 284.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:30] Ether / IP / ICMP / IPerror / UDPerror / DNS Ans b'mobile.events.data.trafficmanager.net.'
+   Features: {'proto': 'other', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 284.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 284.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:30] Ether / IP / TCP 127.0.0.1:47042 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 105.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 105.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:30] Ether / IP / TCP 127.0.0.1:47042 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 105.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 105.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:30] Ether / IP / TCP 127.0.0.1:47042 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 296.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 296.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:30] Ether / IP / TCP 127.0.0.1:47042 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 296.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 296.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:30] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47042 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:30] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47042 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:30] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47042 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 260.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 260.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:30] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47042 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 260.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 260.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:30] Ether / IP / TCP 127.0.0.1:47042 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:30] Ether / IP / TCP 127.0.0.1:47042 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:30] Ether / IP / TCP 127.0.0.1:47056 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 105.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 105.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:31] Ether / IP / TCP 127.0.0.1:47056 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 105.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 105.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:31] Ether / IP / TCP 127.0.0.1:47056 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 296.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 296.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:31] Ether / IP / TCP 127.0.0.1:47056 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 296.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 296.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:31] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47056 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:31] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47056 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:31] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47056 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 260.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 260.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:31] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47056 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 260.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 260.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:31] Ether / IP / TCP 127.0.0.1:47056 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:31] Ether / IP / TCP 127.0.0.1:47056 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:35] Ether / IP / TCP 127.0.0.1:47042 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 105.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 105.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:35] Ether / IP / TCP 127.0.0.1:47042 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 105.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 105.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:35] Ether / IP / TCP 127.0.0.1:47042 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 296.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 296.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:35] Ether / IP / TCP 127.0.0.1:47042 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 296.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 296.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:35] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47042 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:35] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47042 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:35] Ether / IP / TCP 127.0.0.1:47056 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 105.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 105.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:35] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47042 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 260.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 260.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:36] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47042 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 260.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 260.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:36] Ether / IP / TCP 127.0.0.1:47056 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 105.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 105.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:36] Ether / IP / TCP 127.0.0.1:47042 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:36] Ether / IP / TCP 127.0.0.1:47042 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:36] Ether / IP / TCP 127.0.0.1:47056 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 296.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 296.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:36] Ether / IP / TCP 127.0.0.1:47056 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 296.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 296.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:36] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47056 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:36] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47056 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:36] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47056 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 260.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 260.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:36] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47056 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 260.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 260.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:36] Ether / IP / TCP 127.0.0.1:47056 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:36] Ether / IP / TCP 127.0.0.1:47056 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:38] Ether / IP / TCP 127.0.0.1:47026 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 234.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 234.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:38] Ether / IP / TCP 127.0.0.1:47026 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 234.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 234.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:38] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47026 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 122.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 122.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:38] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47026 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 122.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 122.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:38] Ether / IP / TCP 127.0.0.1:47026 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:38] Ether / IP / TCP 127.0.0.1:47026 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:38] Ether / IP / TCP 127.0.0.1:47024 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 121.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 121.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:38] Ether / IP / TCP 127.0.0.1:47024 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 121.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 121.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:38] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47024 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 260.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 260.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:38] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47024 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 260.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 260.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:38] Ether / IP / TCP 127.0.0.1:47024 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:38] Ether / IP / TCP 127.0.0.1:47024 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:39] Ether / IP / TCP 127.0.0.1:47304 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 253.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 253.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:39] Ether / IP / TCP 127.0.0.1:47304 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 253.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 253.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:39] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47304 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 137.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 137.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:39] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47304 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 137.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 137.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:39] Ether / IP / TCP 127.0.0.1:47304 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:39] Ether / IP / TCP 127.0.0.1:47304 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:39] Ether / IP / TCP 127.0.0.1:44984 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 314.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 314.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:39] Ether / IP / TCP 127.0.0.1:44984 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 314.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 314.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:39] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:44984 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 220.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 220.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:39] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:44984 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 220.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 220.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:39] Ether / IP / TCP 127.0.0.1:44984 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:39] Ether / IP / TCP 127.0.0.1:44984 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:39] Ether / IP / TCP 127.0.0.1:47028 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 392.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 392.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:39] Ether / IP / TCP 127.0.0.1:47028 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 392.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 392.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:39] Ether / IP / TCP 127.0.0.1:59434 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 187.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 187.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:39] Ether / IP / TCP 127.0.0.1:59434 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 187.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 187.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:39] Ether / IP / TCP 127.0.0.1:47040 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 302.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 302.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:39] Ether / IP / TCP 127.0.0.1:47040 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 302.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 302.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:39] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47040 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 216.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 216.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:39] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47040 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 216.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 216.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:39] Ether / IP / TCP 127.0.0.1:47040 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:39] Ether / IP / TCP 127.0.0.1:47040 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:39] Ether / IP / TCP 127.0.0.1:55498 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 376.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 376.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:39] Ether / IP / TCP 127.0.0.1:55498 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 376.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 376.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:39] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47028 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 220.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 220.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:40] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47028 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 220.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 220.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:40] Ether / IP / TCP 127.0.0.1:47028 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:40] Ether / IP / TCP 127.0.0.1:47028 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:40] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:59434 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 220.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 220.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:40] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:59434 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 220.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 220.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:40] Ether / IP / TCP 127.0.0.1:59434 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:40] Ether / IP / TCP 127.0.0.1:59434 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:40] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:55498 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 216.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 216.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:40] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:55498 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 216.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 216.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:40] Ether / IP / TCP 127.0.0.1:55498 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:40] Ether / IP / TCP 127.0.0.1:55498 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:40] Ether / IP / TCP 127.0.0.1:47026 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 183.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 183.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:40] Ether / IP / TCP 127.0.0.1:47026 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 183.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 183.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:40] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47026 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 216.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 216.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:40] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47026 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 216.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 216.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:40] Ether / IP / TCP 127.0.0.1:47026 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:40] Ether / IP / TCP 127.0.0.1:47026 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:40] Ether / IP / TCP 127.0.0.1:47042 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 105.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 105.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:40] Ether / IP / TCP 127.0.0.1:47042 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 105.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 105.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:40] Ether / IP / TCP 127.0.0.1:47042 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 296.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 296.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:40] Ether / IP / TCP 127.0.0.1:47042 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 296.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 296.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:40] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47042 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:40] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47042 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:40] Ether / IP / TCP 127.0.0.1:47056 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 105.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 105.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:40] Ether / IP / TCP 127.0.0.1:47056 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 105.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 105.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:40] Ether / IP / TCP 127.0.0.1:47056 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 296.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 296.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:40] Ether / IP / TCP 127.0.0.1:47056 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 296.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 296.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:40] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47056 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:40] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47056 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:40] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47042 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 260.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 260.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:40] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47042 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 260.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 260.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:40] Ether / IP / TCP 127.0.0.1:47042 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:40] Ether / IP / TCP 127.0.0.1:47042 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:40] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47056 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 260.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 260.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:40] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47056 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 260.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 260.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:41] Ether / IP / TCP 127.0.0.1:47056 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:41] Ether / IP / TCP 127.0.0.1:47056 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:45] Ether / IP / TCP 127.0.0.1:47042 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 105.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 105.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:45] Ether / IP / TCP 127.0.0.1:47042 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 105.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 105.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:45] Ether / IP / TCP 127.0.0.1:47042 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 296.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 296.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:45] Ether / IP / TCP 127.0.0.1:47042 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 296.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 296.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:45] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47042 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:45] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47042 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:45] Ether / IP / TCP 127.0.0.1:47056 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 105.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 105.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:45] Ether / IP / TCP 127.0.0.1:47056 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 105.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 105.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:45] Ether / IP / TCP 127.0.0.1:47056 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 296.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 296.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:45] Ether / IP / TCP 127.0.0.1:47056 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 296.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 296.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:45] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47042 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 260.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 260.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:46] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47042 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 260.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 260.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:46] Ether / IP / TCP 127.0.0.1:47042 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:46] Ether / IP / TCP 127.0.0.1:47042 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:46] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47056 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:46] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47056 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:46] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47056 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 260.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 260.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:46] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47056 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 260.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 260.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:46] Ether / IP / TCP 127.0.0.1:47056 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:46] Ether / IP / TCP 127.0.0.1:47056 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:48] Ether / IP / TCP 127.0.0.1:47024 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 121.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 121.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:48] Ether / IP / TCP 127.0.0.1:47024 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 121.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 121.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:48] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47024 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 260.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 260.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:48] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47024 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 260.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 260.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:48] Ether / IP / TCP 127.0.0.1:47024 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:48] Ether / IP / TCP 127.0.0.1:47024 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:49] Ether / IP / TCP 127.0.0.1:47304 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 314.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 314.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:49] Ether / IP / TCP 127.0.0.1:47304 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 314.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 314.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:49] Ether / IP / TCP 127.0.0.1:44984 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 392.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 392.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:49] Ether / IP / TCP 127.0.0.1:44984 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 392.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 392.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:49] Ether / IP / TCP 127.0.0.1:47040 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 187.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 187.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:49] Ether / IP / TCP 127.0.0.1:47040 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 187.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 187.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:49] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:44984 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 220.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 220.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:49] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:44984 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 220.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 220.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:49] Ether / IP / TCP 127.0.0.1:44984 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:49] Ether / IP / TCP 127.0.0.1:44984 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:49] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47304 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 220.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 220.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:49] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47304 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 220.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 220.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:49] Ether / IP / TCP 127.0.0.1:47304 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:49] Ether / IP / TCP 127.0.0.1:47304 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:49] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47040 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 220.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 220.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:49] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47040 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 220.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 220.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:49] Ether / IP / TCP 127.0.0.1:47040 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:49] Ether / IP / TCP 127.0.0.1:47040 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:49] Ether / IP / TCP 127.0.0.1:47028 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 302.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 302.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:49] Ether / IP / TCP 127.0.0.1:47028 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 302.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 302.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:49] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47028 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 216.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 216.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:49] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47028 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 216.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 216.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:49] Ether / IP / TCP 127.0.0.1:47028 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:49] Ether / IP / TCP 127.0.0.1:47028 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:49] Ether / IP / TCP 127.0.0.1:59434 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 376.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 376.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:49] Ether / IP / TCP 127.0.0.1:59434 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 376.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 376.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:50] Ether / IP / TCP 127.0.0.1:55498 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 183.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 183.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:50] Ether / IP / TCP 127.0.0.1:55498 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 183.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 183.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:50] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:59434 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 216.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 216.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:50] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:59434 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 216.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 216.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:50] Ether / IP / TCP 127.0.0.1:59434 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:50] Ether / IP / TCP 127.0.0.1:59434 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:50] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:55498 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 216.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 216.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:50] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:55498 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 216.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 216.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:50] Ether / IP / TCP 127.0.0.1:55498 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:50] Ether / IP / TCP 127.0.0.1:55498 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:50] Ether / IP / TCP 127.0.0.1:47042 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 105.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 105.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:50] Ether / IP / TCP 127.0.0.1:47042 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 105.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 105.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:50] Ether / IP / TCP 127.0.0.1:47042 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 296.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 296.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:50] Ether / IP / TCP 127.0.0.1:47042 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 296.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 296.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:50] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47042 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:50] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47042 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:50] Ether / IP / TCP 127.0.0.1:47056 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 105.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 105.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:50] Ether / IP / TCP 127.0.0.1:47056 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 105.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 105.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:50] Ether / IP / TCP 127.0.0.1:47056 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 296.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 296.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:50] Ether / IP / TCP 127.0.0.1:47056 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 296.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 296.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:51] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47042 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 260.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 260.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:51] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47056 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:51] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47042 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 260.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 260.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:51] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47056 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:51] Ether / IP / TCP 127.0.0.1:47042 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:51] Ether / IP / TCP 127.0.0.1:47042 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:51] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47056 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 260.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 260.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:51] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47056 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 260.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 260.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:51] Ether / IP / TCP 127.0.0.1:47056 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:51] Ether / IP / TCP 127.0.0.1:47056 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:55] Ether / IP / TCP 127.0.0.1:47042 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 105.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 105.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:55] Ether / IP / TCP 127.0.0.1:47042 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 105.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 105.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:55] Ether / IP / TCP 127.0.0.1:47042 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 296.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 296.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:55] Ether / IP / TCP 127.0.0.1:47042 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 296.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 296.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:55] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47042 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:55] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47042 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:55] Ether / IP / TCP 127.0.0.1:47056 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 105.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 105.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:55] Ether / IP / TCP 127.0.0.1:47056 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 105.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 105.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:55] Ether / IP / TCP 127.0.0.1:47056 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 296.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 296.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:56] Ether / IP / TCP 127.0.0.1:47056 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 296.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 296.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:56] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47042 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 260.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 260.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:56] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47042 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 260.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 260.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:56] Ether / IP / TCP 127.0.0.1:47042 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:56] Ether / IP / TCP 127.0.0.1:47042 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:56] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47056 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:56] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47056 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:56] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47056 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 260.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 260.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:56] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47056 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 260.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 260.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:56] Ether / IP / TCP 127.0.0.1:47056 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:56] Ether / IP / TCP 127.0.0.1:47056 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:58] Ether / IP / TCP 127.0.0.1:47024 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 121.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 121.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:58] Ether / IP / TCP 127.0.0.1:47024 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 121.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 121.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:58] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47024 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 260.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 260.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:58] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47024 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 260.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 260.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:58] Ether / IP / TCP 127.0.0.1:47024 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:58] Ether / IP / TCP 127.0.0.1:47024 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:59] Ether / IP / TCP 127.0.0.1:47026 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 314.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 314.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:59] Ether / IP / TCP 127.0.0.1:47026 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 314.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 314.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:59] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47026 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 220.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 220.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:59] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47026 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 220.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 220.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:59] Ether / IP / TCP 127.0.0.1:47026 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:59] Ether / IP / TCP 127.0.0.1:44984 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 392.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 392.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:59] Ether / IP / TCP 127.0.0.1:47026 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:59] Ether / IP / TCP 127.0.0.1:44984 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 392.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 392.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:59] Ether / IP / TCP 127.0.0.1:47304 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 187.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 187.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:59] Ether / IP / TCP 127.0.0.1:47304 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 187.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 187.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:59] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:44984 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 220.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 220.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:59] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:44984 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 220.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 220.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:59] Ether / IP / TCP 127.0.0.1:44984 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:59] Ether / IP / TCP 127.0.0.1:44984 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:59] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47304 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 220.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 220.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:59] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47304 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 220.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 220.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:59] Ether / IP / TCP 127.0.0.1:47304 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:31:59] Ether / IP / TCP 127.0.0.1:47304 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:32:00] Ether / IP / TCP 127.0.0.1:47040 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 302.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 302.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:32:00] Ether / IP / TCP 127.0.0.1:47040 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 302.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 302.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:32:00] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47040 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 216.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 216.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:32:00] Ether / IP / TCP 127.0.0.1:27019 > 127.0.0.1:47040 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 216.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 216.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:32:00] Ether / IP / TCP 127.0.0.1:47040 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:32:00] Ether / IP / TCP 127.0.0.1:47040 > 127.0.0.1:27019 A
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 66.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 66.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:32:00] Ether / IP / TCP 127.0.0.1:47028 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 376.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 376.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
+[22:32:00] Ether / IP / TCP 127.0.0.1:47028 > 127.0.0.1:27019 PA / Raw
+   Features: {'proto': 'tcp', 'service': 'unknown', 'duration': 0.0, 'orig_bytes': 376.0, 'resp_bytes': 0.0, 'conn_state': 'sf', 'orig_pkts': 1, 'orig_ip_bytes': 376.0, 'resp_pkts': 0, 'resp_ip_bytes': 0}
+   Score: 0.000 → benign
+----------------------------------------
