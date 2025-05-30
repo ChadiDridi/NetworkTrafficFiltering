@@ -71,7 +71,7 @@ python detector1.py eth0
 pip install -r LLM\ requirements.txt
 python LLM.py
 
-We have tried many LLM models (they exist in git history and kaggle) in the end we have chosen what performed best, which is TinyLlama 1.1B
+We have tried many LLM models (they exist in git history and kaggle) in the end we choosed what performed best, which is TinyLlama 1.1B
 Tried LLMs :
 google/flan-t5-large
 Phi-3
