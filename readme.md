@@ -25,8 +25,8 @@ We use three distinct machine learning models, each trained on a different datas
 
 | Detector       | Dataset                                | Kaggle Link                                                                                           |
 |----------------|-----------------------------------------|--------------------------------------------------------------------------------------------------------|
-| `detector3.py` | IoT Malicious Detection                 https://www.kaggle.com/datasets/agungpambudi/network-malware-detection-connection-analysis             |
-| `detector2.py` | Network Intrusion Detection            | https://www.kaggle.com/code/istiakahammedeee/explainable-ai-techniques-for-intrusion-detection        |
+| `detector3.py` | IoT Malicious Detection                 | https://www.kaggle.com/datasets/agungpambudi/network-malware-detection-connection-analysis             |
+| `detector2.py` | Network Intrusion Detection            | https://www.kaggle.com/datasets/sampadab17/network-intrusion-detection         |
 | `detector1.py` | Network Traffic Malicious Activity     | https://www.kaggle.com/datasets/advaitnmenon/network-traffic-data-malicious-activity-detection        |
 
 Each model is trained independently, but we apply a feature engineering and normalization process to unify input formats, enabling a combined prediction pipeline.
