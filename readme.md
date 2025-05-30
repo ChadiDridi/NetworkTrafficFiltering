@@ -70,6 +70,13 @@ python detector1.py eth0
 ```bash
 pip install -r LLM\ requirements.txt
 python LLM.py
+
+We have tried many LLM models (they exist in git history and kaggle) in the end we have chosen what performed best, which is TinyLlama 1.1B
+Tried LLMs :
+google/flan-t5-large
+Phi-3
+google/flan-t5-small
+text-2-text generation
 ```
 
 ---
@@ -99,7 +106,7 @@ for more information about the project's architecture and the pipelining, please
 
 - Python
 - XGBoost / Scikit-learn
-- LLM (phi3/Transformers)
+- LLM (Transformers)
 - Real-time packet tracking
 - Unified ML + NLP log pipeline
 
